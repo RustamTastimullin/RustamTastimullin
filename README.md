@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RustamTastimullin
-- 👀 I’m interested in java web developing
+- 👀 I’m interested in java developing
 - 🌱 I’m currently learning java web (spring)
 - 💞️ I’m looking to collaborate on any web project (prefer finance)
-- 📫 How to reach me:
+- 📫 How to contact me:
 https://www.instagram.com/rustam.tastimullin/
 https://vk.com/rustam.tastimullin
 mail: tastimullin@mail.ru
