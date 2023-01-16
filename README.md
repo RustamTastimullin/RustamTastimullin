@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning java web (spring)
 - 💞️ I’m looking to collaborate on any web project (prefer finance)
 - 📫 How to contact me:
-https://www.instagram.com/rustam.tastimullin/
-https://vk.com/rustam.tastimullin
+@IG: rustam.tastimullin
+@vk: rustam.tastimullin
+@tg: https://t.me/rustam_tastimullin
 mail: tastimullin@mail.ru
 
 <!---
