@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RustamTastimullin
+- 👋 Hi, I’m Rustam
 - 👀 I’m interested in java developing
 - 🌱 I’m currently learning java web (spring)
-- 💞️ I’m looking to collaborate on any web project (prefer finance)
 - 📫 How to contact me:
 @IG: rustam.tastimullin
 @vk: rustam.tastimullin
